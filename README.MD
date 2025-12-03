@@ -81,7 +81,7 @@
 
 <details>
 <summary>Пример успешного tracert</summary>
-   ![Успешный хоп](screenshots/example_windows)
+   ![Успешный хоп](screenshots/example_windows.png)
 </details>
 
 ---
@@ -95,7 +95,7 @@
 
 <details>
 <summary>Пример успешного traceroute</summary>
-   ![Успешный хоп](screenshots/example_linux)
+   ![Успешный хоп](screenshots/example_linux.png)
 </details>
 
 ---
