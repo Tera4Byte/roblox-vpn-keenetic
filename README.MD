@@ -116,7 +116,7 @@
 
 ## Список IP-адресов
 
-### Roblox Corporation (AS22697)
+### Roblox Corporation
 Актуальный список:
 * [bgp.he.net/AS22697](https://bgp.he.net/AS22697#_prefixes)
 * [iplist](https://iplist.opencck.org/ru)
